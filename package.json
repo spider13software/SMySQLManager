@@ -1,0 +1,23 @@
+{
+  "name": "smysqlmanager",
+  "version": "1.0.0",
+  "description": "SMySQLManager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spider13software/SMySQLManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spider13software/SMySQLManager/issues"
+  },
+  "homepage": "https://github.com/spider13software/SMySQLManager#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
